@@ -15,7 +15,9 @@ contribution, and may not be the current affiliation of a contributor.
 * Pietro Quaglio [1]
 * Vahid Rostami [1]
 * Robin Gutzen [1]
+* Lyuba Zehl [2]
 
 1. Institute of Neuroscience and Medicine (INM-6), Computational and Systems Neuroscience & Institute for Advanced Simulation (IAS-6), Theoretical Neuroscience, Jülich Research Centre and JARA, Jülich, Germany
+2. Institute of Neuroscience and Medicine (INM-1), Jülich Research Centre and JARA, Jülich, Germany
 
 If we've somehow missed you off the list we're very sorry - please let us know.
